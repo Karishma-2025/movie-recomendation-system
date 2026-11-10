@@ -78,4 +78,4 @@ Collaborative filtering
 External movie APIs
 Project Source Code
 
-GitHub: https://github.com/ankeetahm2711/movie-recommendation-system
+GitHub: https://github.com/karishma-2025/movie-recommendation-system
