@@ -30,7 +30,7 @@ The system uses a basic content-based recommendation approach. Movies are compar
 How to Run
 ## 1. Clone the Repository
 
-git clone https://github.com/ankeetahm2711/movie-recommendation-system.git
+git clone https://github.com/karishma-2015/movie-recommendation-system.git
 
 cd movie-recommendation-system
 
